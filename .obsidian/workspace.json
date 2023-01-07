@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "f74c41b3fa3ce9c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1057431b14db91d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9709e00e4225424c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typescript/学习Typescript-20 (装饰器Decorator).md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1be029bf425df32a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfd672c8da408445",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e019df4885a9522",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69687f0f5b59c67f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15e14b71a5ae7196",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.50260543823242
+  },
+  "right": {
+    "id": "50a3165596bc42e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "439a2060d2703b61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ce180ca1ee3059",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "typescript/学习Typescript-20 (装饰器Decorator).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ec4698ed69ae369c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "typescript/学习Typescript-20 (装饰器Decorator).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "865740da0299d47b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b056879455910e6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "typescript/学习Typescript-20 (装饰器Decorator).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9709e00e4225424c",
+  "lastOpenFiles": [
+    "typescript/学习Typescript-1 (基础数据类型).md",
+    "typescript/学习Typescript-19 (Mixins混入).md",
+    "typescript/学习Typescript-20 (装饰器Decorator).md",
+    "未命名.md",
+    "txt.md",
+    "typescript/markdown/学习Typescript-19 (Mixins混入).md",
+    "typescript/markdown/学习Typescript-18 (声明文件d.ts).md",
+    "typescript/markdown/学习Typescript-17 (三斜线指令).md",
+    "typescript/markdown/学习Typescript-16 (namespace命名空间).md",
+    "typescript/markdown/学习Typescript-15 (tsconfig.json配置文件).md"
+  ]
+}
